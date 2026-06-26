@@ -266,6 +266,7 @@ Algumas limitações do projeto incluem:
 Projeto desenvolvido por **Djonathan Cezar de Souza Metelo**.
 
 LinkedIn: [Djonathan Metelo](https://www.linkedin.com/in/djonathan-metelo/)
+
 GitHub: [DjonathanMetelo](https://github.com/DjonathanMetelo)
 
 
